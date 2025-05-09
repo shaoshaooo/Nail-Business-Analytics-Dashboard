@@ -1,0 +1,22 @@
+Appointment ID,Appointment Date,Client Location,Nail Length,Nail Shape,Presson Type,Extra Accessories,Set Price,Discount Applied,Discount Rate,Price after discount,Tips,Total Earning
+APT001,2025-03-23,Toronto,S,Almond,No Presson,No,40,Birthday Discount,0.30,28,7.23,35.23
+APT002,2025-04-05,Toronto,S,Square,No Presson,Yes,50,None,0.00,50,5.32,55.32
+APT003,2025-01-12,Toronto,M,Almond,No Presson,Yes,60,Birthday Discount,0.30,42,12.16,54.16
+APT004,2025-03-31,Scarborough,XL,Almond,Acrylic,No,80,Regular Customer Discount,0.15,68,12.59,80.59
+APT005,2025-01-21,Missisauga,XL,Coffin,Acrylic,Yes,90,Birthday Discount,0.30,63,14.57,77.57
+APT006,2025-02-13,Missisauga,S,Almond,Acrylic,Yes,70,Promotional Discount,0.20,56,13.47,69.47
+APT007,2025-03-19,North York,L,Almond,No Presson,No,55,Regular Customer Discount,0.15,46.75,14.73,61.48
+APT008,2025-02-18,Brampton,S,Square,Acrylic,No,60,Birthday Discount,0.30,42,12.05,54.05
+APT009,2025-01-06,Oakville,M,Coffin,GelX,Yes,85,Regular Customer Discount,0.15,72.25,8.80,81.05
+APT010,2025-02-28,Toronto,L,Almond,Acrylic,No,75,Birthday Discount,0.30,52.5,11.70,64.2
+APT011,2025-03-31,Toronto,S,Square,No Presson,Yes,50,Birthday Discount,0.30,35,6.63,41.63
+APT012,2025-02-18,Toronto,L,Square,No Presson,Yes,65,Promotional Discount,0.10,58.5,13.43,71.93
+APT013,2025-04-10,Toronto,S,Almond,GelX,No,65,None,0.00,65,7.68,72.68
+APT014,2025-01-28,Scarborough,L,Almond,No Presson,No,55,None,0.00,55,13.85,68.85
+APT015,2025-03-24,Scarborough,XL,Almond,Acrylic,Yes,90,Birthday Discount,0.30,63,12.45,75.45
+APT016,2025-03-10,Scarborough,L,Square,No Presson,No,55,None,0.00,55,8.62,63.62
+APT017,2025-01-18,Brampton,XL,Almond,GelX,Yes,95,Birthday Discount,0.30,66.5,11.27,77.77
+APT018,2025-04-12,Oshawa  ,XL,Square,GelX,No,85,None,0.00,85,10.96,95.96
+APT019,2025-03-01,Missisauga,L,Square,GelX,Yes,90,Promotional Discount,0.20,72,12.69,84.69
+APT020,2025-02-13,Missisauga,S,Coffin,Acrylic,Yes,70,None,0.00,70,5.03,75.03
+,,,,,,,,,,,,
