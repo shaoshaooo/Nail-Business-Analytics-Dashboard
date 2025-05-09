@@ -21,6 +21,3 @@ I created a data analytics dashboard designed for independent nail technicians t
 ## Dashboard Image
 <img width="587" alt="nail business dashboard" src="https://github.com/user-attachments/assets/5d321fef-f4da-44b7-bffe-72fe7f707949" />
 
-##Project Insight
-##Conclusion
-
